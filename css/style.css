@@ -1,0 +1,9 @@
+*{box-sizing: border-box;}
+
+.header {
+    background-color: orange;
+}
+
+.address-list{
+    margin-top: 50px;
+}
